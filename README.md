@@ -1,4 +1,4 @@
-# financial
+# Financial
 
 ## Files describing how to calculate financil risk
 
