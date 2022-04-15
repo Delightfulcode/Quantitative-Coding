@@ -1,6 +1,6 @@
 # Financial
 
-## Files describing how to calculate financil risk
+## Files describing how to calculate financial risk
 
 **Examples includes**
   - Brownian motion
